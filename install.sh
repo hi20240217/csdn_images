@@ -1,0 +1,1 @@
+date >> /tmp/status.log
